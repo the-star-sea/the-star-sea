@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello,Stone here 👋 
 
-<!--
-**the-star-sea/the-star-sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-star-sea&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
+<a href="https://twitter.com/hahastone2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tong-zhang-0a5b33216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+### One, two, three, Cheese!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ A junior UG @ SUSTech CSE
+- 🌱 Working on deep learning
+- 💬 More about me: [homepage](https://the-star-sea.github.io/)
+
+
+![the-star-sea's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-star-sea&count_private=true&show_icons=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-star-sea&layout=compact&theme=algolia&hide=VHDL,Coq)](https://github.com/anuraghazra/github-readme-stats)

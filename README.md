@@ -1,14 +1,15 @@
 ## Hello,Stone here 👋 
+[![Mail](https://img.shields.io/badge/-gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zt980713@gmail.com)](mailto:zt980713@gmail.com)
+  [![Twitter](https://img.shields.io/badge/-Twitter-0A66C2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hahastone2/)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tong-zhang-0a5b33216/)
 
-<a href="https://twitter.com/hahastone2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tong-zhang-0a5b33216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-### One, two, three, Cheese!
+### Current status
 
 - ⚡ A junior UG @ SUSTech CSE
 - 🌱 Working on deep learning
-- 💬 More about me: [homepage](https://the-star-sea.github.io/)
+- 💬  [Homepage](https://the-star-sea.github.io/)
 
 
-![the-star-sea's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-star-sea&count_private=true&show_icons=true&theme=algolia)
+![the-star-sea's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-star-sea&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-star-sea&layout=compact&theme=algolia&hide=VHDL,Coq)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-star-sea&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 

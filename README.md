@@ -1,7 +1,7 @@
 ## Hello,Stone here 👋 
 [![Mail](https://img.shields.io/badge/-gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zt980713@gmail.com)](mailto:zt980713@gmail.com)
   [![Twitter](https://img.shields.io/badge/-Twitter-0A66C2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hahastone2/)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tong-zhang-0a5b33216/)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tong-zhang-stone/)
 
 ### Current status
 

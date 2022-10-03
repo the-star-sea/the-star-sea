@@ -4,7 +4,7 @@
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-0A66C2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hahastone2/) -->
 ### Current status
 
-- ⚡ A senior UG @ UCI CE
+- ⚡ A senior UG @ UCI Engineering 3+2
 - 🌱 Working on deep learning
 - 💬  [Homepage](https://the-star-sea.github.io/)
 

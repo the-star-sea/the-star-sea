@@ -5,7 +5,7 @@
 
 ### Current status
 
-- ⚡ A junior UG @ SUSTech CSE
+- ⚡ A senior UG @ UCI CE
 - 🌱 Working on deep learning
 - 💬  [Homepage](https://the-star-sea.github.io/)
 

@@ -1,7 +1,7 @@
 ## Hello,Stone here 👋 
 [![Mail](https://img.shields.io/badge/-gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zt980713@gmail.com)](mailto:zt980713@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tong-zhang-stone/)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-0A66C2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hahastone2/) -->
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-0A66C2?style=flat-square&logo=Twitter&logoColor=white)](stonezhang.com) -->
 ### Current status
 
 - ⚡ A senior UG @ UCI Engineering 3+2

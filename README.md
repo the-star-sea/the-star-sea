@@ -6,7 +6,7 @@
 
 - ⚡ A senior UG @ UCI Engineering 3+2
 - 🌱 Working on deep learning
-- 💬  [Homepage](https://the-star-sea.github.io/)
+- 💬  [Homepage](https://stonezhang.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-star-sea&layout=compact&hide=Frege&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 

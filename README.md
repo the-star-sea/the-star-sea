@@ -8,9 +8,9 @@
 - 🌱 Working on deep learning
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-star-sea&layout=compact&hide=Frege&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://yu-readme.vercel.app/api/top-langs/?username=the-star-sea&layout=compact&hide=Frege&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-![the-star-sea's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-star-sea&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=algolia)
+![the-star-sea's GitHub stats](https://yu-readme.vercel.app/api?username=the-star-sea&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=algolia)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-star-sea&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 

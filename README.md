@@ -4,7 +4,7 @@
 [![homepage](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://stonezhang.com)
 ### Current status
 
-- ⚡ A senior UG @ UCI Engineering 3+2
+- ⚡ A MS @ UCI Computer Engineering
 - 🌱 Working on deep learning
 
 

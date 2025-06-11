@@ -4,10 +4,8 @@
 ### 🚀 About Me
 
 - 🎓 MS in Computer Engineering @ UC Irvine  
-- 🔬 Research interests: Vision-Language Models, World Models, Controllable Generation  
-- 🛠️ Focused on multimodal reasoning, UI world simulation, and latent-space image editing  
+- 🔬 Research interests: World Models, Multimodal Reasoning and Image Editing 
 
----
 
 ### 📊 GitHub Stats
 

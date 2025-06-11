@@ -1,16 +1,20 @@
-## Hello,Stone here 👋 
-[![Mail](https://img.shields.io/badge/-gmail-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zt980713@gmail.com)](mailto:zt980713@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tong-zhang-stone/)
-[![homepage](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://stonezhang.com)
-### Current status
+## 👋 Hi, I'm Stone (Tong Zhang)
 
-- ⚡ A MS @ UCI Computer Engineering
-- 🌱 Working on deep learning
+[![Gmail](https://img.shields.io/badge/-zt980713@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:zt980713@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tong-zhang-stone/)
+[![Website](https://img.shields.io/badge/-stonezhang.com-000000?style=flat-square&logo=About.me&logoColor=white)](https://stonezhang.com)
 
+### 🚀 About Me
+
+- 🎓 MS in Computer Engineering @ UC Irvine  
+- 🔬 Research interests: Vision-Language Models, World Models, Controllable Generation  
+- 🛠️ Focused on multimodal reasoning, UI world simulation, and latent-space image editing  
+
+---
+
+### 📊 GitHub Stats
 
 [![Top Langs](https://yu-readme.vercel.app/api/top-langs/?username=the-star-sea&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-![the-star-sea's GitHub stats](https://yu-readme.vercel.app/api?username=the-star-sea&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=algolia)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=the-star-sea&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 

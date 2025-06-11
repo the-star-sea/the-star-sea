@@ -1,9 +1,8 @@
 ## 👋 Hi, I'm Stone (Tong Zhang)
 
-[![Gmail](https://img.shields.io/badge/-zt980713@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:zt980713@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tong-zhang-stone/)
-[![Website](https://img.shields.io/badge/-stonezhang.com-000000?style=flat-square&logo=About.me&logoColor=white)](https://stonezhang.com)
-
+📧 [tongz27@uci.edu](mailto:tongz27@uci.edu)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tong-zhang-stone/)  
+🌐 [stonezhang.com](https://stonezhang.com)
 ### 🚀 About Me
 
 - 🎓 MS in Computer Engineering @ UC Irvine  

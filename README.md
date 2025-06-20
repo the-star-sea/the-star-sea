@@ -4,7 +4,7 @@
 ### 🚀 About Me
 
 - 🎓 MS in Computer Engineering @ UC Irvine  
-- 🔬 Research interests: World Models, Multimodal Reasoning and Image Editing 
+- 🔬 Research interests: World Models, Multimodal Reasoning and Software Engineering 
 
 
 ### 📊 GitHub Stats
